@@ -211,4 +211,3 @@ The developer is not responsible for any damage caused by using this tool.
 ## 👤 Developer
 
 **Ayan** ([@imnotaino](https://github.com/sairb1))
-Releases: [github.com/Sairb1/FlasherPRO/releases](https://github.com/Sairb1/FlasherPRO/releases)

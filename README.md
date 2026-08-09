@@ -1,6 +1,7 @@
 # ⚡ Flasher Pro
 
 A modern Android flashing and repair toolkit for Realme, OnePlus, and OPPO dynamic-partition devices — rebuilt from the ground up with a fast, polished desktop UI.
+<img width="1535" height="1024" alt="ChatGPT Image Aug 9, 2026, 02_37_46 PM" src="https://github.com/user-attachments/assets/296ef07d-00ba-47dc-8558-5ab044f39139" />
 
 ---
 
